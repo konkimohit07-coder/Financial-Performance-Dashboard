@@ -1,0 +1,3 @@
+Error Handling Note:
+
+If you encounter the error “Unable to complete action. There was a problem connecting to the data source ‘financial_data’ (Error Code: 88A6ADA0)”, it indicates that the dataset file is missing. Please download the financial_data.csv file from the provided Drive link and upload it into Tableau. Edit the data connection to point to the correct file location. Once updated, the dashboard will load successfully.

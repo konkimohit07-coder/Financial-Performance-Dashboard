@@ -58,10 +58,10 @@ Contains:
 - KPI analysis
 - Visualizations
 - Conclusions
-## Dashboard Preview
 
 ---
 
+## Dashboard Preview
 ![Dashboard](screenshot/dashboard.png)
 
 ---

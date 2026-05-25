@@ -38,7 +38,7 @@ Financial-Performance-Dashboard/
 
 ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](screenshot/dashboard.png)
 
 ---
 

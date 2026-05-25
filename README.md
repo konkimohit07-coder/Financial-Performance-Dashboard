@@ -26,12 +26,24 @@ This dashboard analyzes:
 ## Project Structure
 
 Financial-Performance-Dashboard/
-│── Financial Performance Dashboard.twb
-│── financial_data.csv
-│── README.md
-│── LICENSE
-│── CONTRIBUTING.md
-│── Financial Performance Dashboard Project.pptx
+│
+├── data/
+│   └── financial_data.csv
+│
+├── screenshot/
+│   └── dashboard.png
+│
+├── Tableau Dashboard/
+│   └── Financial Performance Dashboard.twb
+│
+├── Project Report/
+│   └── Financial Performance Dashboard Project.pptx
+│
+├── CONTRIBUTING.md
+├── Error Handling Note.txt
+├── LICENSE
+└── README.md
+
 
 ---
 ## Project Presentation

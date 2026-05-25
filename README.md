@@ -30,13 +30,25 @@ Financial-Performance-Dashboard/
 │── financial_data.csv
 │── README.md
 │── LICENSE
-│── .gitignore
 │── CONTRIBUTING.md
-│── requirements.txt
+│── Financial Performance Dashboard Project.pptx
 
 ---
+## Project Presentation
 
+Project PPT:
+
+Financial Performance Dashboard Project.pptx
+
+Contains:
+- Dashboard overview
+- Financial insights
+- KPI analysis
+- Visualizations
+- Conclusions
 ## Dashboard Preview
+
+---
 
 ![Dashboard](screenshot/dashboard.png)
 
